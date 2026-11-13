@@ -29,7 +29,8 @@ Experiência prática em documentação e planejamento de projetos como planilha
 
 Disponibilidade para atuar presencialmente em Maceió (AL)
 
-meu portifólio: https://oliviadev.vercel.app/
+[Meu portifólio](https://oliviadev.vercel.app/)
+
 
 <br>
 
@@ -42,12 +43,12 @@ meu portifólio: https://oliviadev.vercel.app/
 - **[FixJá](https://github.com/LukBomfim/FixJa.git):** Sistema de contratação de serviços
   Desenvolvido para um projeto da faculdade, foco em auxílio na contratação de serviços de prestadores autônomos.
   
----
+<br>
 
 - **[BoraLer](https://github.com/HandreyGama/boraler.git):** Biblioteca virtual
   Sistema de catálogo com ampla variedade de livros, para acompanhamento de leitura
 
----
+<br>
 
 - **[OpenTickets](https://github.com/TonyRodIv/OpenTickets.git):** Software como serviço de sistema de gerenciamento de bilheteria de cinema
   Construído para ser prático e intuitivo. Ele oferece um painel administrativo completo e uma interface de vendas (totem) para facilitar a gestão do seu cinema.
