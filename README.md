@@ -27,7 +27,6 @@ Desenvolvedora Full-Stack, com maior especialização Front-End e design UX/UI. 
 
 Experiência prática em documentação e planejamento de projetos como planilha de testes, especificação de requisitos, arquitetura de software etc.
 
-Disponibilidade para atuar presencialmente em Maceió (AL)
 
 [Meu portifólio](https://oliviadev.vercel.app/)
 
