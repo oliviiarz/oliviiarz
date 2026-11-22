@@ -19,16 +19,13 @@
 
 ---
 
-<br>
 
 ### About
 Desenvolvedora Full-Stack, com maior especialização Front-End e design UX/UI. Estudante de Ciência da Computação (4º período) na UNIMA Afya. 
 
 Experiência prática em documentação e planejamento de projetos como planilha de testes, especificação de requisitos, arquitetura de software etc.
 
-
 [Meu portifólio](https://oliviadev.vercel.app/)
-
 
 
 ---
