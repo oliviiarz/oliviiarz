@@ -16,7 +16,6 @@
 ![TYPESCRIPT](https://img.shields.io/badge/Typescript-blue?logo=typescript&logoColor=f5f5f5)
 ![React](https://img.shields.io/badge/React-79b6c9?logo=react&logoColor=f5f5f5)
 
-<br>
 
 ---
 
@@ -31,7 +30,6 @@ Experiência prática em documentação e planejamento de projetos como planilha
 [Meu portifólio](https://oliviadev.vercel.app/)
 
 
-<br>
 
 ---
 
@@ -59,6 +57,8 @@ Experiência prática em documentação e planejamento de projetos como planilha
 <br>
 
 Entre em contato comigo pelo [meu e-mail](mailto:olivia.marinhofalc@gmail.com).
+
+<br>
 
 ---
 
